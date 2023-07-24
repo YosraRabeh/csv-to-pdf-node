@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-left: 600px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    color: black;
+  }
+  
+  input[type="file"] {
+    display: block;
+    margin-top: 10px;
+  }
